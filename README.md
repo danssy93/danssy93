@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Daudu Tobi Emmanuel
 
-<!--
-**danssy93/danssy93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on building reliable, production-ready APIs
+with NestJS and TypeScript.
 
-Here are some ideas to get you started:
+I work on systems with real business complexity — role-based access,
+wallet logic, revenue splits, automated jobs, and AI integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current stack:**
+NestJS · TypeScript · TypeORM · PostgreSQL · MySQL · MongoDB · Redis · BullMQ
+
+**Featured projects:**
+- [MOVEBOX](https://github.com/danssy93/movie-marketplace-api) — Movie marketplace API with multi-role auth, wallet system, and cron jobs
+- Nigerian Business Directory API — NestJS + PostgreSQL + Docker
+
+**Open to:** Backend engineering roles · Freelance contracts · AI integration projects
+
+📫 Let's connect on (https://www.linkedin.com/in/tobi-daudu-0902131b6/)(#)
